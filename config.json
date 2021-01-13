@@ -1,14 +1,14 @@
 {
-    "token": "token-here",
-    "password": "password",
+    "token": "NDM4NTAyMjQ1NTI1NDg3NjE2.X_5N2w.CBvi1XZsUkRxEQSe9sGILGcoXWI",
+    "password": "",
     "prefix": ">",   
     
     "nitro_sniper": true, 
     "giveaway_sniper": true,
-    "slotbot_sniper": false,
-    "privnote_sniper": false,
+    "slotbot_sniper": true,
+    "privnote_sniper": true,
 
-    "stream_url": "Twitch",
+    "stream_url": "Twitch.tv/3uuje",
     "tts_language": "en",
 
     "bitly_key": "bitly-key-here",
